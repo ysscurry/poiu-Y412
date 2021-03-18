@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Yss.
-- 👀 I’m interested in basketball.🏀
-- 🌱 I’m currently learning PHP and Laravel...
-- 📫 yusha_sc@163.com
+- 👋 **Hi, I’m Yss.**
+- 👀 **I’m interested in basketball.🏀**
+- 🌱 **I’m currently learning PHP and Laravel...**
+- 📫 **yusha_sc@163.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poiu-Y412&theme=radical)
 
