@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PHP and Laravel...
 - 📫 yusha_sc@163.com
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poiu-Y412)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 poiu-Y412/poiu-Y412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
